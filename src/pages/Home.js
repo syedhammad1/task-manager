@@ -11,8 +11,6 @@ function Home() {
             <div className={styles.taskListC}>
                 <TaskList />
             </div>
-
-
         </div>
 
     )

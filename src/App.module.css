@@ -1,10 +1,10 @@
-/* App.module.css */
+
 html,
 body {
   height: 100%;
   margin: 0;
   padding: 0;
-  overflow: hidden; /* Hide any overflowing content */
+  overflow: hidden; 
 }
 
 #root {
