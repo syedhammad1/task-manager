@@ -1,0 +1,18 @@
+:root {
+    --primary-color: #007bff;
+    /* Define a CSS variable */
+    --secondary-color: #6c757d;
+}
+
+button {
+    background-color: #6370f0;
+    border: none;
+    padding: 15px;
+    color:white;
+    width: 20%;
+    border-radius: 10px;
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 15px;
+    letter-spacing: 1px;
+}

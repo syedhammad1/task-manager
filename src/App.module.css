@@ -1,0 +1,17 @@
+/* App.module.css */
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* Hide any overflowing content */
+}
+
+#root {
+  height: 100%;
+}
+
+.appContainer {
+  height: 100%;
+  background-color: #f8f8ff;
+}
