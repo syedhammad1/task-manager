@@ -26,3 +26,7 @@ This is a simple task management application built using React. It allows users 
     npm run start
     visit localhost:3000
     ```
+3. Access Live URL
+   ```bash
+    https://taskmanager-d1885.web.app
+   ```
